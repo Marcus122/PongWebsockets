@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Pong using websockets",
   "dependencies": {
-    "socket.io": "^1.3.5"
+    "socket.io": "^1.3.5",
+	"express":"*"
   }
 }
